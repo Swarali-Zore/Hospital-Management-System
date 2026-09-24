@@ -1,0 +1,201 @@
+dept_id,dept_name,doctor_id
+1,Pediatrics,297
+2,Neurology,242
+3,General Medicine,285
+4,Orthopedics,156
+5,General Medicine,211
+6,Cardiology,216
+7,Cardiology,159
+8,Pediatrics,206
+9,Pediatrics,187
+10,Pediatrics,217
+11,Orthopedics,203
+12,Dermatology,207
+13,Neurology,287
+14,General Medicine,125
+15,Orthopedics,181
+16,General Medicine,210
+17,Neurology,181
+18,Dermatology,271
+19,General Medicine,166
+20,Orthopedics,196
+21,Neurology,140
+22,Pediatrics,276
+23,Pediatrics,222
+24,Pediatrics,118
+25,Neurology,124
+26,Dermatology,122
+27,Orthopedics,124
+28,Pediatrics,211
+29,Neurology,125
+30,General Medicine,291
+31,Pediatrics,290
+32,Cardiology,196
+33,Orthopedics,134
+34,General Medicine,243
+35,Dermatology,116
+36,Dermatology,251
+37,Neurology,244
+38,Dermatology,244
+39,Cardiology,185
+40,Pediatrics,272
+41,General Medicine,132
+42,Pediatrics,206
+43,Orthopedics,191
+44,Pediatrics,271
+45,Neurology,293
+46,Pediatrics,209
+47,Orthopedics,285
+48,General Medicine,114
+49,Cardiology,174
+50,General Medicine,254
+51,General Medicine,180
+52,Neurology,191
+53,Orthopedics,127
+54,General Medicine,248
+55,General Medicine,230
+56,Cardiology,155
+57,Dermatology,140
+58,Cardiology,269
+59,Orthopedics,224
+60,Orthopedics,158
+61,Neurology,128
+62,Pediatrics,190
+63,Pediatrics,243
+64,Pediatrics,195
+65,Dermatology,130
+66,Orthopedics,296
+67,Dermatology,172
+68,Pediatrics,247
+69,Pediatrics,158
+70,Cardiology,210
+71,Orthopedics,244
+72,Pediatrics,297
+73,General Medicine,260
+74,Orthopedics,258
+75,Dermatology,273
+76,Orthopedics,265
+77,Neurology,243
+78,General Medicine,107
+79,Pediatrics,256
+80,Neurology,269
+81,Cardiology,278
+82,Orthopedics,169
+83,Orthopedics,108
+84,Cardiology,147
+85,Neurology,170
+86,General Medicine,280
+87,Pediatrics,296
+88,Neurology,180
+89,Dermatology,187
+90,Pediatrics,190
+91,Neurology,102
+92,General Medicine,147
+93,Orthopedics,137
+94,Neurology,245
+95,Cardiology,269
+96,General Medicine,203
+97,Orthopedics,118
+98,General Medicine,137
+99,Pediatrics,290
+100,Cardiology,263
+101,Pediatrics,108
+102,Pediatrics,124
+103,Dermatology,292
+104,General Medicine,236
+105,General Medicine,156
+106,Neurology,197
+107,Cardiology,208
+108,Cardiology,217
+109,Dermatology,188
+110,Cardiology,141
+111,General Medicine,195
+112,Dermatology,180
+113,Cardiology,285
+114,Dermatology,184
+115,Cardiology,299
+116,Cardiology,246
+117,Neurology,253
+118,Cardiology,122
+119,Dermatology,114
+120,General Medicine,140
+121,Neurology,141
+122,Cardiology,294
+123,Cardiology,259
+124,Dermatology,113
+125,Neurology,273
+126,Cardiology,121
+127,General Medicine,170
+128,Pediatrics,214
+129,General Medicine,270
+130,Cardiology,209
+131,General Medicine,225
+132,Neurology,256
+133,Cardiology,214
+134,Dermatology,207
+135,Neurology,170
+136,General Medicine,156
+137,Cardiology,294
+138,Neurology,232
+139,General Medicine,130
+140,Cardiology,189
+141,Pediatrics,211
+142,Orthopedics,129
+143,Dermatology,173
+144,General Medicine,274
+145,Pediatrics,274
+146,General Medicine,252
+147,Orthopedics,225
+148,Orthopedics,235
+149,Neurology,271
+150,Dermatology,179
+151,Dermatology,112
+152,General Medicine,157
+153,Orthopedics,202
+154,Dermatology,254
+155,Cardiology,115
+156,Dermatology,102
+157,General Medicine,153
+158,Pediatrics,178
+159,Pediatrics,155
+160,Dermatology,297
+161,Neurology,136
+162,Orthopedics,296
+163,Pediatrics,166
+164,General Medicine,175
+165,General Medicine,184
+166,Orthopedics,131
+167,Orthopedics,102
+168,Orthopedics,228
+169,Pediatrics,292
+170,General Medicine,211
+171,Orthopedics,145
+172,Pediatrics,134
+173,Orthopedics,198
+174,General Medicine,237
+175,General Medicine,281
+176,Neurology,159
+177,Dermatology,229
+178,Cardiology,244
+179,General Medicine,272
+180,Cardiology,191
+181,Neurology,119
+182,Dermatology,202
+183,Pediatrics,290
+184,Dermatology,111
+185,Dermatology,212
+186,Pediatrics,105
+187,Neurology,218
+188,Orthopedics,120
+189,Dermatology,181
+190,Dermatology,248
+191,Neurology,210
+192,Orthopedics,247
+193,Dermatology,204
+194,Dermatology,282
+195,Orthopedics,264
+196,General Medicine,207
+197,Pediatrics,175
+198,General Medicine,130
+199,Pediatrics,204
+200,Pediatrics,106
